@@ -1,5 +1,5 @@
 # ACP-XGBSV
-It's the source code of paper "Anticancer Peptides Prediction Based on Two-level Classifier".
+It's the source code of paper "ACP-XGBSV: A two‑stage cascade classifier framework for anticancer peptide prediction".
 
 To train the model and output the results, run in the command line:
 ```
